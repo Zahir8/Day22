@@ -4,7 +4,9 @@ import Box from './Box';
 
 function App() {
   return (
-    <Box />
+    <div className="container">
+      <Box />
+    </div>
   );
 }
 
