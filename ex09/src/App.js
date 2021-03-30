@@ -5,7 +5,7 @@ import Flower from './Flower';
 function App() {
   return (
     <div className="App">
-      <Flower color={"red"} />
+      <Flower color="red" />
     </div>
   );
 }
